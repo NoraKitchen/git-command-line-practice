@@ -1,1 +1,3 @@
-hi from new branch file
+hi from BOOM MERGE CONFLICT new branch file
+
+new new branch file has more text
